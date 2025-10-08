@@ -1,2 +1,2 @@
 # speech-processing
-all about my work
+For learning purpose
